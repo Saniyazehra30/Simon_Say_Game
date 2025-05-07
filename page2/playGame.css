@@ -1,0 +1,52 @@
+:root {
+  --borderColor: black;
+}
+body {
+  text-align: center;
+}
+.outerDiv {
+  margin: 4rem 0 0 530px;
+  border-radius: 2rem;
+  background-color: gainsboro;
+  height: 300px;
+  width: 300px;
+  border: 2px solid var(--borderColor);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerDiv {
+  height: 100px;
+  width: 100px;
+  margin: 1.5rem;
+  border-radius: 20%;
+  border: 2px solid var(--borderColor);
+}
+.green{
+    background-color: greenyellow;
+}
+.red{
+background-color: rgb(239, 75, 75);
+}
+.yellow{
+    background-color: rgb(242, 242, 77);
+}
+.blue{
+    background-color: rgb(75, 75, 247);
+}
+.btn{
+  margin: 2rem;
+  height: 50px;
+  width: 90px;
+  border-radius: 1rem;
+}
+.flash{
+  background-color: white;
+}
+.removeStartBtn{
+ display: none;
+}
+
+.gameOver{
+  background-color: rgb(236, 70, 70);
+}
