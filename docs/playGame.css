@@ -3,7 +3,10 @@
 }
 body {
   text-align: center;
-  background-color: rgb(44, 49, 75);
+  background-color: rgb(49, 52, 67);
+}
+h1, h2{
+  color: aliceblue;
 }
 .outerDiv {
   margin: 4rem auto;
