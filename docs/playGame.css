@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 .outerDiv {
-  margin: 4rem 0 0 530px;
+  margin: 4rem auto;
   border-radius: 2rem;
   background-color: gainsboro;
   height: 300px;
