@@ -1,8 +1,9 @@
 :root {
-  --borderColor: rgb(220, 121, 121);
+  --borderColor: black;
 }
 body {
   text-align: center;
+  background-color: rgb(44, 49, 75);
 }
 .outerDiv {
   margin: 4rem auto;
